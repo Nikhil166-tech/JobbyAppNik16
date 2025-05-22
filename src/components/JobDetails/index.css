@@ -1,0 +1,75 @@
+.job-details-ctn {
+  background-color: #000000;
+  height: 100%;
+  padding: 30px;
+  color: #ffffff;
+}
+
+.bg-card {
+  background-color: #202020;
+  height: 100%;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.company-logo1 {
+  height: 80px;
+  width: 80px;
+  margin-right: 10px;
+}
+.title1 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: 'Roboto';
+}
+
+.description {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.h-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #6366f1;
+}
+
+.skills-items {
+  list-style: none;
+  display: flex;
+}
+
+.skills-items1 {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-grow: 5;
+  font-weight: 500;
+}
+.skill-logo {
+  margin-right: 20px;
+}
+
+.company-ctn {
+  display: flex;
+  flex-direction: row;
+}
+
+.company-bg {
+  display: flex;
+  flex-direction: column;
+}
+
+.similar-jobs {
+  display: flex;
+}
+
+.items {
+  margin: 200px;
+}
+
+.title {
+  font-size: 15px;
+}

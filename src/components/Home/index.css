@@ -1,0 +1,33 @@
+.home {
+  background-color: #121212;
+  background-size: cover;
+  height: 100vh;
+  padding-bottom: 40px;
+  padding-left: 40px;
+  display: flex;
+}
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 70px;
+}
+.description {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+}
+
+.button2 {
+  height: 25px;
+  width: 100px;
+  background-color: #6366f1;
+  border-radius: 5px;
+  color: #ffffff;
+  font-weight: 400;
+  border: none;
+  cursor: pointer;
+}
+
+.home-img {
+  height: 100%;
+  width: 60%;
+}
