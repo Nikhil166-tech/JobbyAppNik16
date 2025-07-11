@@ -4,7 +4,93 @@ In this project, let's build a **Jobby App** by applying the concepts we have le
 
 <div style="text-align: center;">
   <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
-    <source src="https://assets.ccbp.in/frontend/content/react-js/jobby-app-success-output-v0.mp4" type="video/mp4">
+    <source src="https://assets.ccbp.in/f# Jobby App
+
+A responsive Job Search Application built using **React.js** as part of the **CCBP 4.0** program.
+
+---
+
+## 🎥 Demo Videos
+
+- [Success View Demo](https://assets.ccbp.in/frontend/content/react-js/jobby-app-success-output-v0.mp4)
+- [Failure View Demo](https://assets.ccbp.in/frontend/content/react-js/jobby-app-failure-output-v1.mp4)
+
+---
+
+## 🎨 Design Previews
+
+<details>
+<summary>🔐 Login Route</summary>
+
+- [Login (Small)](https://assets.ccbp.in/frontend/content/react-js/jobby-app-login-sm-outputs.png)
+- [Login (Large)](https://assets.ccbp.in/frontend/content/react-js/jobby-app-login-lg-output.png)
+- [Login Failure](https://assets.ccbp.in/frontend/content/react-js/jobby-app-login-failure-lg-output.png)
+
+</details>
+
+<details>
+<summary>🏠 Home Route</summary>
+
+- [Home (Small)](https://assets.ccbp.in/frontend/content/react-js/jobby-app-home-sm-output.png)
+- [Home (Large)](https://assets.ccbp.in/frontend/content/react-js/jobby-app-home-lg-output.png)
+
+</details>
+
+<details>
+<summary>💼 Jobs Route</summary>
+
+- [Jobs (Small)](https://assets.ccbp.in/frontend/content/react-js/jobby-app-jobs-sm-outputs.png)
+- [Jobs Success (Large)](https://assets.ccbp.in/frontend/content/react-js/jobby-app-jobs-success-lg-output-v0.png)
+- [No Jobs View](https://assets.ccbp.in/frontend/content/react-js/jobby-app-no-jobs-lg-output.png)
+- [Profile Failure](https://assets.ccbp.in/frontend/content/react-js/jooby-app-profile-failure-lg-output-v0.png)
+- [Jobs Failure](https://assets.ccbp.in/frontend/content/react-js/jobby-app-jobs-failure-lg-output.png)
+
+</details>
+
+<details>
+<summary>📄 Job Details Route</summary>
+
+- [Job Details Success (Small)](https://assets.ccbp.in/frontend/content/react-js/jobby-app-job-details-success-sm-output-v0.png)
+- [Job Details Failure (Small)](https://assets.ccbp.in/frontend/content/react-js/jobby-app-job-details-failure-sm-output.png)
+- [Job Details Success (Large)](https://assets.ccbp.in/frontend/content/react-js/jobby-app-job-details-success-lg-output-v0.png)
+- [Job Details Failure (Large)](https://assets.ccbp.in/frontend/content/react-js/jobby-app-job-details-failure-lg-output.png)
+
+</details>
+
+<details>
+<summary>🚫 Not Found Route</summary>
+
+- [Not Found (Small)](https://assets.ccbp.in/frontend/content/react-js/jobby-app-not-found-sm-output-v0.png)
+- [Not Found (Large)](https://assets.ccbp.in/frontend/content/react-js/jobby-app-not-found-lg-output-v0.png)
+
+</details>
+
+---
+
+## 🚀 Features
+
+- Secure login using JWT
+- Protected Routes (Login, Home, Jobs, Job Details)
+- Jobs filtering by:
+  - Employment Type
+  - Salary Range
+  - Search Keyword
+- Job details view with:
+  - Company Info
+  - Skills Required
+  - Life at Company
+  - Similar Jobs
+- Error views and retry options on API failure
+- Responsive design
+
+---
+
+## 🧪 User Credentials for Testing
+
+```text
+username: rahul
+password: rahul@2021
+rontend/content/react-js/jobby-app-success-output-v0.mp4" type="video/mp4">
   </video>
 </div>
 <br/>
